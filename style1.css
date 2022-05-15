@@ -26,28 +26,29 @@ body {
 .mensagem {
 	position: absolute;
 	margin-top: 90px;
+	margin-left: 60px;
 	background-image: url("figura.png");
 	background-repeat: no-repeat;
 }
 .botoes {
 	
 	flex-direction: row;
-	margin-left: 120px;
+	margin-left: 40px;
 	margin-top: 20px;
 }
 
 .Encriptar {
-	padding: 120px
-	margin-left: 300px;
+	padding: 70px
+	margin-left: 170px;
 	background-color: darkblue;
 	color: white;
 }
 
 .Desencriptar {
-
+	position: absolute;
 	background-color: white;
 	color: darkblue;
-	margin-left: 280px;
+	margin-left: 320px;
 }
 
 .informacao {
